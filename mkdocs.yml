@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Microworkflows
+site_url: https://www.microworkflows.org/
+theme: mkdocs
+nav:
+  - Further Reading: references.md
+  - Examples: examples.md
+  - 'Microworkflows and ..': related.md
+
+
