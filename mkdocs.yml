@@ -4,6 +4,6 @@ theme: mkdocs
 nav:
   - Further Reading: references.md
   - Examples: examples.md
-  - 'Microworkflows and ..': related.md
+  - 'Microworkflows and ..': mindset.md
 
 
