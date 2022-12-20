@@ -1,11 +1,12 @@
 # Microworkflows And ..
 
 
-You may find the thought of basing your system on events and microworkflows, and not relying on any coordination or workflow engine, a bit mind-bending. In fact, I believe the challenge lies not in technology or tools, but in the mindset. I'd like to provide some thought experiments that may make it easier to understand the philosophy behing microworkflows.
+You may find the thought of basing your system on events and microworkflows, and not relying on any coordinator or workflow engine, a bit mind-bending. In fact, I believe the challenge lies not in technology or tools, but in the mindset. I'd like to provide some thought experiments that may make it easier to understand the philosophy behing microworkflows.
 
 ## .. Unix Philosophy
 
 Think about the command line tools in your shell. They follow the [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy), which has been summarized as:
+
 - Write programs that do one thing and do it well.
 - Write programs to work together.
 - Write programs to handle text streams, because that is a universal interface.
@@ -17,6 +18,7 @@ Each command will accept the output of the previous as given facts. There's no r
 ## .. Stream Processing
 
 Stream processing looks at data not as an amount of records (or bytes) that is stored somewhere and manipulated in place, but as a - possibly endless - continuous stream of events. In different stages, this stream is transformed. It's a common approach for use cases where new data is continously produced, e.g.
+
 - IoT data, such as sensor data 
 - stock tickers
 - clicks on a website

@@ -2,8 +2,9 @@ site_name: Microworkflows
 site_url: https://www.microworkflows.org/
 theme: mkdocs
 nav:
-  - Further Reading: references.md
   - Examples: examples.md
-  - 'Microworkflows and ..': mindset.md
+  - 'Microworkflows and ..': related.md
+  - 'Orchestration vs. Choreography': orchestration-vs-choreography.md
+  - Further Reading: references.md
 
 
