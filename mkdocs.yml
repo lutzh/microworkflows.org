@@ -2,9 +2,9 @@ site_name: Microworkflows
 site_url: https://www.microworkflows.org/
 theme: mkdocs
 nav:
+  - Implications: implications.md
   - Examples: examples.md
   - 'Microworkflows and ..': related.md
   - 'Orchestration vs. Choreography': orchestration-vs-choreography.md
   - Further Reading: references.md
-
 

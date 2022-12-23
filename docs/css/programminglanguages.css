@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* Additional styles to complement tufte.css */
+
+dl,
+table {
+    font-size: 1.4rem;
+    line-height: 2rem; 
+}
+
