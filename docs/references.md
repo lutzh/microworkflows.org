@@ -23,6 +23,15 @@
 Kiril Chilingarashvili on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7013454155839148032?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7013454155839148032%2C7018321388465774592%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A7013454155839148032%2C7018323494476152832%29)
 
 
-_One problem with orchestration is that it tends to give rise to complex infrastructure. A centralised orchestrator service needs to implement a range of concerns, including control flow, routing, connectivity, retries, data transformation, monitoring and reporting. This can give rise to runaway complexity over time as integration logic accumulates in a central integration platform._
+> _One problem with orchestration is that it tends to give rise to complex 
+> infrastructure. A centralised orchestrator service needs to implement a range of
+> concerns, including control flow, routing, connectivity, retries, data
+> transformation, monitoring and reporting. This can give rise to runaway complexity
+> over time as integration logic accumulates in a central integration platform._
 
 Ben Morris, see "Orchestration vs choreography for microservice workflows" above.
+
+
+> _In reactive systems one should try to avoid orchestration as it moves you away from being reactive towards telling other components what work to perform._
+
+Kris Kater on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7057142565959069696?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7057142565959069696%2C7057209741944512512%29)
