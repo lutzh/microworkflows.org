@@ -32,7 +32,7 @@ This website contains links to other websites belonging to third parties. We do 
 
 ## Contribute
 
-You can find the source code for this website on [https://github.com/lutzh/microworkflows.org/](https://github.com/lutzh/microworkflows.org/). If you'd like to suggest improvements or additions, create an [issue](https://github.com/lutzh/microworkflows.org/issues) or a [pull request](https://github.com/lutzh/microworkflows.org/pulls).
+You can find the source code for this website on [github.com/lutzh/microworkflows.org/](https://github.com/lutzh/microworkflows.org/). If you'd like to suggest improvements or additions, create an [issue](https://github.com/lutzh/microworkflows.org/issues) or a [pull request](https://github.com/lutzh/microworkflows.org/pulls).
 
 
 ## Attribution
