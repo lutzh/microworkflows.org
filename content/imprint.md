@@ -1,8 +1,7 @@
 ---
 title: Imprint
-toc: false
-sidebar:
-  exclude: true
+bookHidden: true
+bookToC: false
 ---
 
 Angaben gemäß § 5 TMG   
@@ -37,4 +36,4 @@ You can find the source code for this website on [github.com/lutzh/microworkflow
 
 ## Attribution
 
-This website is built with [Hugo](https://gohugo.io/) and the [Hextra](https://imfing.github.io/hextra/) theme.
+This website is built with [Hugo](https://gohugo.io/) and the [Book](https://github.com/alex-shpak/hugo-book) theme.

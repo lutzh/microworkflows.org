@@ -1,0 +1,30 @@
+/* High-contrast, crisp color scheme for microworkflows.org */
+
+:root {
+  --color-link: #0e7490;
+  --color-link-hover: #065666;
+}
+
+a {
+  color: var(--color-link);
+}
+a:hover {
+  color: var(--color-link-hover);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #0a0a0a;
+}
+
+code {
+  background-color: #f3f4f6;
+  color: #1a1a1a;
+}
+
+blockquote {
+  border-left-color: #0e7490;
+}
+
+.book-menu nav a.active {
+  color: #0e7490;
+}
