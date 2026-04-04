@@ -2,6 +2,8 @@
 title: The Microworkflow Pattern
 ---
 
+# The Microworkflow Pattern
+
 When you need to implement a complex workflow across multiple microservices, don't immediately turn to workflow engines, or implementing e.g. the saga pattern. Instead, consider breaking up the workflow into chunks, or microworkflows.
 
 ## What is a Microworkflow?

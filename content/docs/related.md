@@ -3,6 +3,8 @@ title: "Microworkflows And .."
 weight: 3
 ---
 
+# Microworkflows And ..
+
 You may find the thought of basing your system on events and microworkflows, and not relying on any coordinator or workflow engine, a bit mind-bending. In fact, I believe the challenge lies not in technology or tools, but in the mindset. I'd like to provide some thought experiments that may make it easier to understand the philosophy behing microworkflows.
 
 ## .. Unix Philosophy

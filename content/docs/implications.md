@@ -3,6 +3,8 @@ title: Implications
 weight: 1
 ---
 
+# Implications
+
 Not using a workflow engine also means that the features they typically provide won't be available. Let's look at some of them, and what doing without them means for your system.
 
 
