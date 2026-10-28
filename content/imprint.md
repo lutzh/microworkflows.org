@@ -7,11 +7,12 @@ bookToC: false
 # Imprint
 
 Angaben gemäß § 5 TMG   
-Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
- 
-Lutz Hühnken   
-Friedensallee 17   
-22765 Hamburg   
+Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV: Lutz Hühnken
+
+
+Lutz Hühnken Consulting   
+Randstraße 1   
+22525 Hamburg   
 USt.-IdNr. DE309839651   
 
 E-Mail: [info (at) huehnken (dot) de](mailto:info@huehnken.de)
